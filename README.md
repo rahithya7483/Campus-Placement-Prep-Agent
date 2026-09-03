@@ -1,13 +1,3 @@
----
-title: Campus Placement Prep Agent
-emoji: 🎓
-colorFrom: blue
-colorTo: purple
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # Campus Placement Prep Agent
 
 An AI assistant for students preparing for campus placements. It answers questions about
@@ -95,9 +85,12 @@ campus_placement_prep_agent/
 ├── streamlit_app.py               (chat UI)
 ├── build_db.py                    (raw CSVs -> SQLite)
 ├── dedupe_companies.py            (one-time data-cleaning pass, see below)
-├── README.md
+├── Dockerfile                     (single container, see Deployment section)
+├── start.sh                       (starts backend + UI inside the container)
+├── .dockerignore
 ├── .gitignore
-└── .env                           (GROQ_API, MOCK_LLM)
+├── requirements.txt
+└── .env                           (GROQ_API, MOCK_LLM - never committed)
 ```
 
 ## Setup & running
@@ -121,6 +114,54 @@ streamlit run streamlit_app.py
 Set `MOCK_LLM=true` in `.env` to develop/test without hitting the real Groq API (it returns
 canned responses shaped like real ones). Set it to `false` with a valid `GROQ_API` key for
 real answers.
+
+## Deployment
+
+The app is containerized with Docker and deployed on **Render.com** (free tier). Both the
+FastAPI backend and the Streamlit UI run inside a **single container** — Render's free tier
+exposes only one port per service, so `start.sh` starts `uvicorn` in the background on an
+internal port (8000) and runs Streamlit in the foreground on the port Render assigns
+(`$PORT`), with the UI talking to the backend over `localhost` since they share the same
+container.
+
+**Why Render, not Hugging Face Spaces**: HF Spaces was the original plan, but as of this
+writing, creating a Docker (or Gradio) Space requires a paid PRO plan — only fully static
+Spaces are free. On top of that, HF's billing doesn't yet support Indian-issued credit
+cards. Render's free tier needed no card at all and accepts a plain Dockerfile deploy, so
+that's what this project actually runs on. Worth rechecking Hugging Face's pricing page
+before assuming this is still accurate if you're reading this much later — platform pricing
+policies change.
+
+**What to expect from the deployed app** — none of this is a bug, it's normal free-tier
+container behavior:
+- **Cold starts.** After roughly 15 minutes with no traffic, Render spins the container down
+  completely. The next visit takes 30-50 seconds to wake back up before the UI responds.
+- **First-message delay.** The very first chat message after a cold start is slower than
+  normal LLM latency alone would suggest, because `sentence-transformers` has to download
+  and load the `all-MiniLM-L6-v2` embedding model into memory on first use.
+- **Conversation memory resets on every spin-down/restart.** `MemorySaver` is in-process —
+  it does not survive the container restarting, which happens on every cold start and every
+  redeploy. This is the same limitation noted below for local runs, just more frequent here
+  because free-tier containers restart far more often than a laptop does.
+- **`start.sh` waits for the backend before starting the UI**, polling `/health` for up to 60
+  seconds rather than assuming a fixed delay is enough — an early version used a blind
+  `sleep 5`, which occasionally raced ahead of a slow cold-start backend and briefly showed
+  a "couldn't reach the backend" error in the UI.
+
+**Live LINK** -- `https://campus-placement-prep-agent.onrender.com/`
+
+**To redeploy after a code change**: push to GitHub (`git push origin main`) — if
+Auto-Deploy is enabled on the Render service (Settings tab), a new build starts
+automatically. Otherwise trigger it manually from the service page (Manual Deploy → Deploy
+latest commit).
+
+**Environment variables/secrets**, set in Render's dashboard under the service's
+Environment tab (never committed to the repo):
+- `GROQ_API` — your Groq API key
+- `MOCK_LLM` — `false` for the deployed app to use the real model
+- `PORT` — `10000` (Render's expected default; `start.sh` falls back to `7860` if unset,
+  which matters if you ever run the same image locally with `docker run`)
+
 
 ## The development journey: problems faced, and how they were fixed
 
