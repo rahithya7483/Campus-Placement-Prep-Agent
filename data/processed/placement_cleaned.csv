@@ -1,0 +1,804 @@
+year,raw_company_name,clean_company,n_selected,ctc_lpa,ctc_needs_review
+2016-17,"TCS Limited, Hyderabad",Tata Consultancy Services,192.0,,False
+2016-17,Huyndai Mobis,Huyndai Mobis,1.0,,False
+2016-17,Nalsoft,Nalsoft,3.0,,False
+2016-17,Tech Mahindra,Tech Mahindra,42.0,,False
+2016-17,NTT Data,NTT Data,29.0,,False
+2016-17,Global Edge,Global Edge,8.0,,False
+2016-17,ZenQ,ZenQ,14.0,,False
+2016-17,"FSS,Chennai",FSS,2.0,,False
+2016-17,"AppsTek CORP,Hyderabad",AppsTek CORP,3.0,,False
+2016-17,Veda IIT,Veda IIT,8.0,,False
+2016-17,Miracle,Miracle,7.0,,False
+2016-17,"Amara Raja Group,Hyderabad",Amara Raja Group,4.0,,False
+2016-17,"Medho Servo,Hyderabad",Medha Servo Drives,2.0,,False
+2016-17,"Meccon Engineering Contractors LLP,Banglore",Meccon Engineering Contractors LLP,2.0,,False
+2016-17,MovinDneedle,FUNNL,2.0,,False
+2016-17,"Pennar Pebs,Hyderabad",Pennar Pebs,5.0,,False
+2016-17,Efftronics,Efftronics,2.0,,False
+2016-17,"Cyient,Hyderabad",Cyient,9.0,,False
+2016-17,"Design Tribe,Hyderabad",Design Tribe,3.0,,False
+2016-17,"Reliance ADA,Hyderabad",Reliance ADA,1.0,,False
+2016-17,"BSCPL,Hyderabad",BSCPL,4.0,,False
+2016-17,"Alsec Technologies,Chennai",Alsec Technologies,105.0,,False
+2016-17,EME FOCUS,EME FOCUS,1.0,,False
+2016-17,Seventh Sense,Seventh Sense,5.0,,False
+2016-17,Laurus Labs,Laurus Labs,17.0,,False
+2016-17,Wissen,Wissen,1.0,,False
+2016-17,"Mold Tek,Hyderabad",Mold Tek,4.0,,False
+2016-17,Ojas Innovation Technologies,Ojas Innovation Technologies,1.0,,False
+2016-17,Vee Technologies,Vee Technologies,11.0,,False
+2016-17,"Miracle Software Systems,Vizag",Miracle Software Systems,8.0,,False
+2016-17,Yamayah,Yamayah,4.0,,False
+2016-17,L & T Technology Services,L & T Technology Services,8.0,,False
+2016-17,Oppo Mobiles,Oppo Mobiles,4.0,,False
+2016-17,"Andhra Sugars,Tanuku",Andhra Sugars,3.0,,False
+2016-17,DarwinBox,Darwinbox,,,False
+2016-17,HGS,HGS,50.0,,False
+2016-17,"Granuels,Hyderabad",Granuels,7.0,,False
+2016-17,"Objectwin,Banglore",Objectwin,3.0,,False
+2016-17,"Hobellbellow,Vizag",Hobellbellow,6.0,,False
+2016-17,"Ramboll,Hyderabad",Ramboll,2.0,,False
+2016-17,"9Logic,Hyderabad",9Logic,2.0,,False
+2016-17,"Hetero Drugs, Hyderabad",Hetero Drugs,17.0,,False
+2016-17,SATVEN,Satven,1.0,,False
+2016-17,"VAP,GNT",VAP,5.0,,False
+2016-17,Trimax,Trimax,5.0,,False
+2016-17,JustDial,Just Dial,2.0,,False
+2016-17,QSPIDERS,QSpiders,1.0,,False
+2016-17,Infor,Infor,1.0,,False
+2016-17,Sathguru Management Consultants,Sathguru Management Consultants,1.0,,False
+2016-17,Symbol,Symbol,1.0,,False
+2016-17,Karvy,Karvy,1.0,,False
+2016-17,Chettinadu Cements,Chettinadu Cements,5.0,,False
+2016-17,Value Labs,Value Labs,1.0,,False
+2016-17,Deep Compute,Deep Compute,2.0,,False
+2016-17,Divis Labs,Divis Labs,6.0,,False
+2016-17,Hexagon,Hexagon,1.0,,False
+2017-18,"TCS, Hyderabad",Tata Consultancy Services,211.0,,False
+2017-18,Infosys,Infosys,31.0,,False
+2017-18,"GGk, Hyderbad",GGK,13.0,,False
+2017-18,"Schematic Engg. Industries, Hyd.",Schematic Engg. Industries,2.0,,False
+2017-18,Hetero Drugs,Hetero Drugs,8.0,,False
+2017-18,"Future NDT, Vijayawada",Future NDT,1.0,,False
+2017-18,"Technovert, Hyderabad",Technovert,20.0,,False
+2017-18,Veda IIT,Veda IIT,19.0,,False
+2017-18,Nalsoft,Nalsoft,8.0,,False
+2017-18,Hyundai Mobis,Hyundai Mobis,2.0,,False
+2017-18,"Saahi Automotive Solutions, Guntur",Saahi Automotive Solutions,1.0,,False
+2017-18,ADP,ADP,1.0,,False
+2017-18,Yamyah,Yamyah,2.0,,False
+2017-18,"Foxconn, Tada",Foxconn,35.0,,False
+2017-18,"Divis Laboratories,Hyderabad",Divis Laboratories,24.0,,False
+2017-18,"Efftronics, Vijayawada",Efftronics,1.0,,False
+2017-18,"MAQ Software, Hyderabad",MAQ Software,3.0,,False
+2017-18,"Tulasi Technologies, Bangalore",Tulasi Technologies,7.0,,False
+2017-18,"Numerify, Banglore",Numerify,1.0,,False
+2017-18,"Seventh Sense Talent Solutions, Bangalore",Seventh Sense Talent Solutions,16.0,,False
+2017-18,"MWebWare Software Services, Hyderabad",MWebWare Software Services,6.0,,False
+2017-18,"Spandana, Hyderabad",Spandana,3.0,,False
+2017-18,"Allsec Technologies, Chennai",Allsec Technologies,85.0,,False
+2017-18,HSBC Software Development,HSBC Software Development,1.0,,False
+2017-18,"Vee Technologies, Bangalore",Vee Technologies,14.0,,False
+2017-18,Miracle Software Solutions,Miracle Software Solutions,6.0,,False
+2017-18,Automative Research Association of India,Automative Research Association of India,1.0,,False
+2017-18,General Motors,General Motors,1.0,,False
+2017-18,VARROC Group,VARROC Group,1.0,,False
+2017-18,MovingDneedle,MovingDneedle,3.0,,False
+2017-18,"ITC, Guntur",ITC,3.0,,False
+2017-18,"HGS, Guntur",HGS,7.0,,False
+2017-18,"FACE, Hyderabad",FACE,5.0,,False
+2017-18,APSSDC,APSSDC,2.0,,False
+2017-18,"DBS, Hyderabad",DBS,,,False
+2017-18,"Darwinbox Digital Solutions, Hyderabad",Darwinbox Digital Solutions Pvt Ltd,,,False
+2017-18,"Directi Solutions, Mumbai",Directi Solutions,,,False
+2017-18,"Medha Servo Drives, Hyderabad",Medha Servo Drives,1.0,,False
+2017-18,"eLitmus, Bangalore",eLitmus,,,False
+2017-18,"Karvay, Hyderabad",Karvay,2.0,,False
+2017-18,"Accolite Software India Pvt Ltd, Hyderabad",Accolite Software India Pvt Ltd,,,False
+2017-18,"ZOHO Corporation, Hyderabad",ZOHO Corporation,,,False
+2017-18,"KJ Systems, Vijayawada",KJ Systems,1.0,,False
+2017-18,"Hitachi Consulting, Hyderabad",Hitachi Consulting,,,False
+2017-18,"C3i, Hyderabad",C3i,,,False
+2017-18,Ezone,Ezone,,,False
+2017-18,"Avantel, Hyderabad",Avantel,,,False
+2017-18,Axis Bank,Axis Bank,4.0,,False
+2017-18,"KCP Cements, Jaggayapeta",KCP Cements,4.0,,False
+2017-18,Just Dial,Just Dial,1.0,,False
+2017-18,"Infor, Hyderabad",Infor,1.0,,False
+2017-18,"Broadcom, Hydereabad",Broadcom,,,False
+2017-18,"El Camino Technologies, Bangalore",El Camino Technologies,6.0,,False
+2017-18,"Sriram Finance, Guntur",Sriram Finance,10.0,,False
+2017-18,"Asa Bhanu, Hyderabad",Asa Bhanu,5.0,,False
+2017-18,"Satven, Hyderabad",Satven,2.0,,False
+2017-18,"Centurian Ltd, Chennai",Centurian Ltd,5.0,,False
+2017-18,"MyHome Constructions, Hyderabad",My Home Constructions,3.0,,False
+2017-18,Mind tree,Mind Tree,3.0,,False
+2017-18,Robert Bosch,Robert Bosch,1.0,,False
+2017-18,IBM,IBM,2.0,,False
+2017-18,"Syntel, Pune",Syntel,2.0,,False
+2017-18,"Symbol Technologies, Bangalore",Symbol Technologies,1.0,,False
+2017-18,HCL,HCL,5.0,,False
+2017-18,"VAP, Guntur",VAP,4.0,,False
+2017-18,"Unev Technologies, Hyderabad",Unev Technologies,1.0,,False
+2017-18,DXC Technology,DXC Technology,1.0,,False
+2017-18,"PathFront, Chennai",Pathfront,4.0,,False
+2017-18,BROADRIDGE,BROADRIDGE,5.0,,False
+2017-18,CMSIT Services,CMS IT Services,1.0,,False
+2017-18,ISUZU,Isuzu,1.0,,False
+2017-18,HR Square,HR Square,1.0,,False
+2017-18,"Wipro, Bangalore",Wipro,3.0,,False
+2017-18,Accenture,Accenture,4.0,,False
+2017-18,Capgemini,Capgemini,3.0,,False
+2017-18,CGI,CGI,1.0,,False
+2017-18,Cigniti,Cigniti,1.0,,False
+2017-18,CTS,Cognizant,7.0,,False
+2017-18,GDS,GDS,1.0,,False
+2017-18,Greenco Energies,Greenco Energies,1.0,,False
+2017-18,HANBIT Automation Tech,HANBIT Automation Tech,1.0,,False
+2017-18,NTT Data,NTT Data,1.0,,False
+2017-18,Govt. Jobs,Govt. Jobs,16.0,,False
+2017-18,Symphony Retail,Symphony Retail,1.0,,False
+2017-18,Tech Mahindra,Tech Mahindra,2.0,,False
+2017-18,Vazram,Vazram,1.0,,False
+2017-18,MAUD,MAUD,2.0,,False
+2017-18,Amazon,Amazon,2.0,,False
+2017-18,Cyient,Cyient,3.0,,False
+2017-18,DGS Technical Services,DGS Technical Services,1.0,,False
+2017-18,EDS Technologies,EDS Technologies,1.0,,False
+2017-18,Eidiko,Eidiko,1.0,,False
+2017-18,Extra Marks,Extra Marks,1.0,,False
+2017-18,FoundaryJob,FoundaryJob,1.0,,False
+2017-18,KIA Motors,KIA Motors,5.0,,False
+2017-18,Volectra Green Tech Ltd.,Volectra Green Tech Ltd.,1.0,,False
+2017-18,Pennar Engg. Systems,Pennar Engg. Systems,1.0,,False
+2017-18,Pert Telecom Solutions,Pert Telecom Solutions,1.0,,False
+2017-18,Power Mech,Power Mech,1.0,,False
+2017-18,Prakrititecnicspvt ltd,Prakrititecnicspvt ltd,1.0,,False
+2017-18,RIG Application,RIG Application,1.0,,False
+2017-18,SEOYONE,SEOYONE,1.0,,False
+2017-18,SLS,Sai Life Sciences Limited,2.0,,False
+2017-18,Sri Sai Industries,Sri Sai Industries,1.0,,False
+2017-18,SVR Electricals,SVR Electricals,1.0,,False
+2017-18,Technologics,Technologics,1.0,,False
+2017-18,TECHWAVE,Tech Wave,1.0,,False
+2017-18,THRYMR Software,THRYMR Software,1.0,,False
+2017-18,Toshiba,Toshiba,1.0,,False
+2017-18,Hindustan Beverages,Hindustan Beverages,1.0,,False
+2018-19,"TCS, Hyderabad",Tata Consultancy Services,271.0,,False
+2018-19,"Infosys, Hyderabad",Infosys,30.0,,False
+2018-19,"Snovasys, Hyderabad",Snovasys,5.0,,False
+2018-19,"Darwinbox Digital Solutions Pvt Ltd, Hyderabad",Darwinbox Digital Solutions Pvt Ltd,1.0,,False
+2018-19,"CTL, Chandigarh",CTL,64.0,,False
+2018-19,"Sahi Automation Solutions, Guntur",Sahi Automation Solutions,3.0,,False
+2018-19,"Nalsoft, Hyderabad,",Nalsoft,6.0,,False
+2018-19,"Veda IIT, Hyderabad",Veda IIT,16.0,,False
+2018-19,"GGK, Hyderabad",GGK,4.0,,False
+2018-19,"Hyundai Mobis, Hyderabad",Hyundai Mobis,1.0,,False
+2018-19,"Hexagon,Hyderabad",Hexagon,6.0,,False
+2018-19,"Sygnus Software, Pune",Sygnus Software,1.0,,False
+2018-19,"Satyam Venture Engineering, Secunderabad",Satyam Venture Engineering,7.0,,False
+2018-19,"ZenQ, Hyderabad",ZenQ,8.0,,False
+2018-19,"Hansa Solutions, Hyderabad.",Hansa Solutions,2.0,,False
+2018-19,"Efftronics, Vijayawada",Efftronics,3.0,,False
+2018-19,"Vee Technologies,Bangalore",Vee Technologies,10.0,,False
+2018-19,"Tulasi Technologies, Bangalore",Tulasi Technologies,3.0,,False
+2018-19,"Wipro, Hyderabad",Wipro,9.0,,False
+2018-19,"Grifeo Technology,Bhuvaneswar",Grifeo Technology,27.0,,False
+2018-19,"Westline Group, Ahmedabad",Westline Group,25.0,,False
+2018-19,"Trade Ocean Ship Management ,Mumbai",Trade Ocean Ship Management,18.0,,False
+2018-19,"CTS, Hyderabad",Cognizant,18.0,,False
+2018-19,"Acuvate, Hyderabad",Acuvate,5.0,,False
+2018-19,"Aliens Group, Hyderabad",Aliens Group,3.0,,False
+2018-19,"CMS IT Services, Mumbai",CMS IT Services,22.0,,False
+2018-19,"HCL, Hyderabad",HCL,20.0,,False
+2018-19,"Amara Raja Group, Hyderabad",Amara Raja Group,1.0,,False
+2018-19,"NTT Data, Bangalore",NTT Data,5.0,,False
+2018-19,"Texas Technology, Bhuvaneswar",Texas Technology,52.0,,False
+2018-19,"Ramky Enviro Engineers Ltd, Hyderabad",Ramky Enviro Engineers Ltd,7.0,,False
+2018-19,"Divis Laboratories, Hyderabad",Divis Laboratories,27.0,,False
+2018-19,"Apollo Munich, Hyderabad",Apollo Munich,4.0,,False
+2018-19,"Syntel, Pune",Syntel,4.0,,False
+2018-19,"Sri Sahin Tech Solutions, Hyderabad",Sri Sahin Tech Solutions,7.0,,False
+2018-19,"HSBC Bank, Hyderabad",HSBC Bank,1.0,,False
+2018-19,"Virtusa, Hyderabad",Virtusa,1.0,,False
+2018-19,"Trimax, Raichur",Trimax,11.0,,False
+2018-19,"BYJU's , Pune",BYJU's,4.0,,False
+2018-19,"ICICI Bank, Mubai",ICICI Bank,15.0,,False
+2018-19,"ElCamino, Bangalore",ElCamino,7.0,,False
+2018-19,"VIVO, Guntur",VIVO,14.0,,False
+2018-19,"Allsec Technologies, Chennai",Allsec Technologies,35.0,,False
+2018-19,"Centilytics, Noida",Centilytics,2.0,,False
+2018-19,"Technologics Global, Bangalore",Technologics Global,4.0,,False
+2018-19,"Raam Group, Hyderabad",Raam Group,2.0,,False
+2018-19,"GREedge, Chennai",GREedge,2.0,,False
+2018-19,"Attra Infotech, Bangalore",Attra Infotech,2.0,,False
+2018-19,"My Home Constructions, Hyderabad",My Home Constructions,1.0,,False
+2018-19,"Pathfront, Bengaluru",Pathfront,9.0,,False
+2018-19,"Chola MS General Insurance, Vijayawada",Chola MS General Insurance,5.0,,False
+2018-19,Ashok Leyland,Ashok Leyland,1.0,,False
+2018-19,"Clair, Hyderabad",Clair,1.0,,False
+2018-19,"Hetero Drugs, Hyderabad",Hetero Drugs,12.0,,False
+2018-19,Verizon,Verizon,1.0,,False
+2018-19,"BSR Infratech, Vijayawada",BSR Infratech,11.0,,False
+2018-19,"COGIN, Hyderabad",COGIN,4.0,,False
+2018-19,"Seventh Sense, Bangalore",Seventh Sense,9.0,,False
+2018-19,"Young Minds technology Solutions, Tirupati",Young Minds technology Solutions,17.0,,False
+2018-19,"HSPL (Toppr), Hyderabad",HSPL (Toppr),2.0,,False
+2018-19,"HDFC, Mumbai",HDFC,14.0,,False
+2018-19,"Pinclick, Bangalore",PinClick,3.0,,False
+2018-19,"VAP, Guntur",VAP,3.0,,False
+2018-19,IBM,IBM,2.0,,False
+2018-19,Govt. Jobs,Govt. Jobs,15.0,,False
+2018-19,TCSL,Tata Consultancy Services,7.0,,False
+2018-19,Accenture,Accenture,4.0,,False
+2018-19,APRECOMM,APRECOMM,1.0,,False
+2018-19,Premier Energies,Premier Energies,1.0,,False
+2018-19,Tech Mahindra,Tech Mahindra,1.0,,False
+2018-19,HBL,HBL,1.0,,False
+2018-19,Talent Pace,Talent Pace,1.0,,False
+2018-19,Aveva Health Care,Aveva Health Care,1.0,,False
+2018-19,ARA,ARA,1.0,,False
+2018-19,CGA,CGA,1.0,,False
+2018-19,HGS,HGS,8.0,,False
+2018-19,Amazon,Amazon,4.0,,False
+2018-19,SFJ,SFJ,1.0,,False
+2018-19,Sanjay Technical Services,Sanjay Technical Services,1.0,,False
+2018-19,SSPI,SSPI,1.0,,False
+2018-19,Avineon,Avineon,1.0,,False
+2018-19,BEL,BEL,1.0,,False
+2018-19,Deloitte,Deloitte,1.0,,False
+2018-19,Dream Media Solutions,Dream Media Solutions,1.0,,False
+2018-19,Genpack,Genpack,1.0,,False
+2018-19,GGS Engg. Services,GGS Engg. Services,1.0,,False
+2018-19,TWEAK Talent Technogies,TWEAK Talent Technogies,1.0,,False
+2018-19,HAURECIA,HAURECIA,1.0,,False
+2018-19,Hindustan Zinc Ltd.,Hindustan Zinc Ltd.,1.0,,False
+2018-19,HPCl,HPCl,1.0,,False
+2018-19,IAEC,IAEC,1.0,,False
+2018-19,KRD Industries,KRD Industries,1.0,,False
+2018-19,NUCON Aero Space,NUCON Aero Space,1.0,,False
+2018-19,S & T Machine Tools,S & T Machine Tools,1.0,,False
+2019-20,"TCS, Ninja, Hyderabad",Tata Consultancy Services,268.0,,False
+2019-20,"TCS, Digital Hiring Hyderabad",Tata Consultancy Services,13.0,,False
+2019-20,"Infosys, Hyderabad",Infosys,36.0,,False
+2019-20,"Value Labs, Hyderabad",Value Labs,4.0,,False
+2019-20,"EPAM, Hyderabad",EPAM,5.0,,False
+2019-20,"Hyundai MOBIS, Hyderabad",Hyundai Mobis,4.0,,False
+2019-20,"UTS, Hyderabad",UTS,3.0,,False
+2019-20,"Smart DV, Bangalore",Smart DV,3.0,,False
+2019-20,"Snovasys, Hyderabad",Snovasys,4.0,,False
+2019-20,"Hexagon, Hyderabad",Hexagon,5.0,,False
+2019-20,"Talentio, Hyderabad",Talentio,15.0,,False
+2019-20,"Technovert, Hyderabad",Technovert,4.0,,False
+2019-20,"COVIAM, Bangalore",COVIAM,3.0,,False
+2019-20,"Microsoft, Hyderabad",Microsoft,1.0,,False
+2019-20,"NALSOFT, Hyderabad.",Nalsoft,2.0,,False
+2019-20,"Raam Group, Hyderabad",Raam Group,3.0,,False
+2019-20,"Hexaware, Chennai",Hexaware,10.0,,False
+2019-20,"Zensar, Pune",Zensar,1.0,,False
+2019-20,"GGK, Hyderabad",GGK,5.0,,False
+2019-20,"CTRLS, Hyderabad",CTRLS,2.0,,False
+2019-20,Sri Sahin Tech Solutions SSTS,Sri Sahin Tech Solutions,18.0,,False
+2019-20,Veda IIT,Veda IIT,6.0,,False
+2019-20,Multiplier,Multiplier,22.0,,False
+2019-20,"PinClick, Bangalore",PinClick,11.0,,False
+2019-20,"Shellpro Technologies, Bang.,",Shellpro Technologies,59.0,,False
+2019-20,"CTS, Hyderabad",Cognizant,24.0,,False
+2019-20,WinWire Technologies,WinWire Technologies,3.0,,False
+2019-20,Aliens Group,Aliens Group,5.0,,False
+2019-20,"Surya Tech Solutions, Hyd.",Surya Tech Solutions,18.0,,False
+2019-20,"Mangnum Wings, Vijaywada",Mangnum Wings,4.0,,False
+2019-20,"Aptroid Consulting (India) Pvt., Ltd., Hyderabad.",Aptroid Consulting (India) Pvt.,1.0,,False
+2019-20,"IBM, Hyderabad",IBM,13.0,,False
+2019-20,"NTT Data, Bangalore",NTT Data,4.0,,False
+2019-20,"HCL, Vijayawada",HCL,6.0,,False
+2019-20,"Efftronics, Vijayawada",Efftronics,6.0,,False
+2019-20,"Seventh Sense, Bangalore",Seventh Sense,25.0,,False
+2019-20,"Chola MS, Vijayawada",Chola MS,13.0,,False
+2019-20,"FACE, Hyderabad",FACE,4.0,,False
+2019-20,"Techolution, Hyderabad",Techolution,1.0,,False
+2019-20,"Tech Mahindra, Hyderabad",Tech Mahindra,4.0,,False
+2019-20,"Wipro, Hyderabad",Wipro,25.0,,False
+2019-20,"Virtusa, Chennai",Virtusa,2.0,,False
+2019-20,Vespa,Vespa,2.0,,False
+2019-20,Isuzu,Isuzu,2.0,,False
+2019-20,Hero Motors,Hero Motors,4.0,,False
+2019-20,Ramky,Ramky,1.0,,False
+2019-20,"Sutherland, Chennai",Sutherland,28.0,,False
+2019-20,"Asahi India Glass Ltd, Gurgaon",Asahi India Glass Ltd,4.0,,False
+2019-20,"Western Shipping, Ahmedabad",Western Shipping,21.0,,False
+2019-20,"DotC, Hyderabad",DotC,2.0,,False
+2019-20,"ETHNUS, Bang.,",ETHNUS,8.0,,False
+2019-20,Amara Raja Group,Amara Raja Group,1.0,,False
+2019-20,Reliance JIO,Reliance JIO,1.0,,False
+2019-20,"RajGroup, Vijayawada",RajGroup,31.0,,False
+2019-20,"MovingDneedle, Hyd.",MovingDneedle,1.0,,False
+2019-20,"DXC Technolgy, Bangalore",DXC Technolgy,4.0,,False
+2019-20,"Divis, Hyderabad",Divis,36.0,,False
+2019-20,"Edmate, Hyderabad",Edmate,20.0,,False
+2019-20,Allsec Technologies,Allsec Technologies,33.0,,False
+2019-20,E\_Kalasaala,E\_Kalasaala,6.0,,False
+2019-20,ITC,ITC,6.0,,False
+2019-20,Yamyah,Yamyah,2.0,,False
+2019-20,Hetero Drugs,Hetero Drugs,27.0,,False
+2019-20,Coign,Coign,1.0,,False
+2019-20,Byjus,BYJU's,5.0,,False
+2019-20,Vedantu,Vedantu,4.0,,False
+2019-20,"Edupolis Technologies Pvt., Ltd.",Edupolis Technologies Pvt.,1.0,,False
+2019-20,Berger Paints,Berger Paints,1.0,,False
+2019-20,"Legato Health Technologies Pvt., Ltd",Legato Health Technologies Pvt.,5.0,,False
+2019-20,"BITECH, Bangalore",BITECH,1.0,,False
+2019-20,"VAP, Guntur",VAP,3.0,,False
+2019-20,Qspiders,QSpiders,1.0,,False
+2019-20,"DEC Infra, Hyd",DEC Infra,2.0,,False
+2019-20,"Darwinbox, Hyd",Darwinbox,,,False
+2019-20,"Techmojo, Hyd",Techmojo,,,False
+2019-20,"Jaro,Mumbai",Jaro,,,False
+2019-20,"Medhaservo, Hyd",Medha Servo Drives,,,False
+2019-20,"Vee Technologies, Bangalore",Vee Technologies,,,False
+2019-20,"Topper. Hyd.,",Topper. Hyd.,,,False
+2019-20,"Sanota Software, Chennai",Sanota Software,,,False
+2019-20,"Pure Chemicals, Chennai",Pure Chemicals,,,False
+2019-20,"Insmagro Global Solutions Private Limited, Hyd.,",Insmagro Global Solutions Private Limited,,,False
+2019-20,"Hashedin Technologies, Bangalore",Hashedin Technologies,,,False
+2019-20,"Sraavya IoT Technologies Pvt Ltd, Vizag,",Sraavya IoT Technologies Pvt Ltd,,,False
+2019-20,"Nuclei, Hyderabad,",Nuclei,,,False
+2019-20,Acccenture,Acccenture,4.0,,False
+2019-20,Capgemini,Capgemini,3.0,,False
+2019-20,Govt. Jobs,Govt. Jobs,10.0,,False
+2019-20,LAMBDA Crew Technologies,LAMBDA Crew Technologies,1.0,,False
+2019-20,Proxima 360,Proxima 360,1.0,,False
+2019-20,TCS L,Tata Consultancy Services,2.0,,False
+2019-20,TEK Systems,TEK Systems,1.0,,False
+2019-20,Verzeo,Verzeo,1.0,,False
+2019-20,Accupack Engineers,Accupack Engineers,1.0,,False
+2019-20,Amazon,Amazon,2.0,,False
+2019-20,Arthancarrers,Arthancarrers,1.0,,False
+2019-20,Chegg,Chegg,1.0,,False
+2019-20,FLM,FLM,1.0,,False
+2019-20,Intern Data Engineering,Intern Data Engineering,1.0,,False
+2019-20,KIA,KIA,2.0,,False
+2019-20,ONO Labs,ONO Labs,1.0,,False
+2019-20,Reddys Lab,Reddys Lab,1.0,,False
+2019-20,Roctool,Roctool,1.0,,False
+2019-20,Sleep Life,Sleep Life,1.0,,False
+2019-20,Tech Wave,Tech Wave,1.0,,False
+2020-21,TCS NQT Hyderabad,Tata Consultancy Services,154.0,,False
+2020-21,"CTS, Hyderabad",Cognizant,129.0,,False
+2020-21,"Infosys, Hyderabad",Infosys,137.0,,False
+2020-21,"TCS, Hyderabad (Codevita)",Tata Consultancy Services,27.0,,False
+2020-21,"TCS, Digital Hiring, Hyderabad",Tata Consultancy Services,21.0,,False
+2020-21,"NalSoft, Hyderabad",Nalsoft,15.0,,False
+2020-21,"Technovert, Hyderabad",Technovert,9.0,,False
+2020-21,"COVIUM, Bangalore",COVIUM,8.0,,False
+2020-21,"MODAK Analytics, Hyderabad",MODAK Analytics,7.0,,False
+2020-21,"Hexaware, Hyderabad",Hexaware,5.0,,False
+2020-21,"EPAM, Hyderabad",EPAM,3.0,,False
+2020-21,"Intellias, Vijayawada",Intellias,1.0,,False
+2020-21,"Prodapt, Chennai",Prodapt,1.0,,False
+2020-21,"Cyrrup Sol., HYderabad",Cyrrup Sol.,1.0,,False
+2020-21,"Mokila, Hrderabad",Mokila,8.0,,False
+2020-21,Wipro Hyderabad,Wipro,23.0,,False
+2020-21,TEK Systems,TEK Systems,2.0,,False
+2020-21,"Eazydiner, Hyd.,",Eazydiner,1.0,,False
+2020-21,"EConstruct Design & Build Pvt., Ltd. Bangalore",EConstruct Design & Build Pvt.,1.0,,False
+2020-21,"Technologics Global Pvt., Ltd. Bangalore",Technologics Global,4.0,,False
+2020-21,"Q - Spider, Hyderabad.",Q - Spider,13.0,,False
+2020-21,"NTT Data, Bangalore.",NTT Data,3.0,,False
+2020-21,"Efftronics, Vijayawada.",Efftronics,4.0,,False
+2020-21,MovingDneedle.,MovingDneedle,4.0,,False
+2020-21,"HCL, Vijayawda.",HCL,2.0,,False
+2020-21,"Hiveminds, Bangalore.",Hiveminds,2.0,,False
+2020-21,"PurpleTalk, Hyderabad.",PurpleTalk,2.0,,False
+2020-21,"Tech Mahindra, Hyderabad.",Tech Mahindra,4.0,,False
+2020-21,"Verzeo, Hyderabad.",Verzeo,50.0,,False
+2020-21,"Neudesic Technologies, Hyd.",Neudesic Technologies,3.0,,False
+2020-21,"Cheg, India Pvt., Ltd., Vizag",Cheg,17.0,,False
+2020-21,Allsec,Allsec,36.0,,False
+2020-21,Veda IIT,Veda IIT,1.0,,False
+2020-21,My Home Constructions,My Home Constructions,5.0,,False
+2020-21,BYJU's,BYJU's,6.0,,False
+2020-21,Hexagon,Hexagon,4.0,,False
+2020-21,Just Pay,Just Pay,1.0,,False
+2020-21,FACE,FACE,4.0,,False
+2020-21,Deccan Chemicals,Deccan Chemicals,1.0,,False
+2020-21,"Apisero, Bangalore",Apisero,1.0,,False
+2020-21,"Acura Solutions, Mumbai",Acura Solutions,1.0,,False
+2020-21,"Qualitas Technologies, Bangalore",Qualitas Technologies,2.0,,False
+2020-21,"TalentServe Pvt. Ltd, Mumbai",TalentServe Pvt. Ltd,14.0,,False
+2020-21,"Kanini Software, Bngalore",Kanini Software,1.0,,False
+2020-21,"Worldline Global, Bangalore",Worldline Global,1.0,,False
+2020-21,"Unschool, Hyd",UnSchool,2.0,,False
+2020-21,Hetero Drugs,Hetero Drugs,44.0,,False
+2020-21,"PK Global Technologies,Chennai",PK Global Technologies,1.0,,False
+2020-21,"Divis Labs, Hyd.",Divis Labs,50.0,,False
+2020-21,"Sun Tech Group, Bangalore",Sun Tech Group,1.0,,False
+2020-21,"Trimax, Raichur",Trimax,16.0,,False
+2020-21,"Tricon Infotech Pvt Ltd, Bengaluru",Tricon Infotech Pvt Ltd,3.0,,False
+2020-21,"Accenture, Hyderabad",Accenture,17.0,,False
+2020-21,"ITC, Guntur",ITC,3.0,,False
+2020-21,"Codilar, Bengaluru",Codilar,1.0,,False
+2020-21,"Sonata Software, Bangalore",Sonata Software,12.0,,False
+2020-21,"Power MAk, Hyderabad",Power MAk,1.0,,False
+2020-21,"VAP, GNT",VAP,1.0,,False
+2020-21,Mind Tree,Mind Tree,2.0,,False
+2020-21,Ashok Leyland,Ashok Leyland,1.0,,False
+2020-21,Quality Kiosk,Quality Kiosk,1.0,,False
+2020-21,"Surya Tech Solutions, Hyderabad",Surya Tech Solutions,6.0,,False
+2020-21,Aparna Constructions,Aparna Constructions,4.0,,False
+2020-21,Capgemini,Capgemini,1.0,,False
+2020-21,Kolar,Kolar,1.0,,False
+2020-21,OPSRAMP,OPSRAMP,1.0,,False
+2020-21,SKOLAR,SKOLAR,10.0,,False
+2020-21,Sagar Soft,Sagar Soft,1.0,,False
+2020-21,Net Cracker,Net Cracker,4.0,,False
+2021-22,"Technovert, Hyderabad",Technovert,7.0,4.5,False
+2021-22,"Technovert, Hyderabad",Technovert,8.0,5.0,False
+2021-22,Infosys (HackWithInfy + InfyTQ),Infosys,1.0,8.0,False
+2021-22,Infosys (HackWithInfy + InfyTQ),Infosys,1.0,5.0,False
+2021-22,Infosys (HackWithInfy + InfyTQ),Infosys,65.0,3.6,False
+2021-22,Infosys (HackWithInfy + InfyTQ),Infosys,2.0,2.22,False
+2021-22,"MODAK Analytics, Hyderabad",MODAK Analytics,29.0,6.0,False
+2021-22,"COVIUM, Bangalore",COVIUM,10.0,7.5,False
+2021-22,Accolite,Accolite,2.0,5.0,False
+2021-22,TCS,Tata Consultancy Services,34.0,7.0,False
+2021-22,TCS,Tata Consultancy Services,199.0,3.6,False
+2021-22,CTS,Cognizant,16.0,6.75,False
+2021-22,CTS,Cognizant,326.0,4.0,False
+2021-22,Hexaware,Hexaware,2.0,5.0,False
+2021-22,Hexaware,Hexaware,30.0,4.0,False
+2021-22,Brillio,Brillio,12.0,4.5,False
+2021-22,Wipro,Wipro,52.0,6.5,False
+2021-22,Wipro,Wipro,289.0,3.75,False
+2021-22,Rinex Technologies,Rinex Technologies,4.0,5.0,False
+2021-22,Accenture,Accenture,24.0,6.5,False
+2021-22,Accenture,Accenture,94.0,4.5,False
+2021-22,QuEST,QuEST,19.0,3.25,False
+2021-22,Coditas,Coditas,5.0,3.0,False
+2021-22,FACE,FACE,3.0,2.88,False
+2021-22,Hitachi Vantara,Hitachi Vantara,1.0,6.5,False
+2021-22,Birlasoft,Birlasoft,2.0,3.6,False
+2021-22,Kreeti Technologies Pvt. Ltd,Kreeti Technologies Pvt. Ltd,2.0,5.4,False
+2021-22,Advanced Business & Health Care Solutions,Advanced Business & Health Care Solutions,1.0,6.0,False
+2021-22,UnSchool,UnSchool,1.0,5.0,False
+2021-22,Darwinbox,Darwinbox,2.0,8.0,True
+2021-22,Hyundai Mobis,Hyundai Mobis,2.0,4.5,False
+2021-22,Zensar,Zensar,28.0,4.0,False
+2021-22,ITC,ITC,3.0,,False
+2021-22,BYJU\`S,BYJU's,1.0,10.0,False
+2021-22,Virtusa,Virtusa,10.0,4.0,False
+2021-22,Virtusa,Virtusa,3.0,6.5,False
+2021-22,EPAM,EPAM,2.0,6.0,False
+2021-22,Cube Highways,Cube Highways,1.0,3.0,False
+2021-22,MSR Cosmos,MSR Cosmos,2.0,3.6,False
+2021-22,Wiley-Mthree,Wiley-Mthree,5.0,7.0,False
+2021-22,Tvisha,Tvisha,11.0,,False
+2021-22,Veda IIT,Veda IIT,2.0,3.0,False
+2021-22,WinWire Technologies,WinWire Technologies,2.0,4.5,False
+2021-22,Efftronics,Efftronics,1.0,5.5,False
+2021-22,Efftronics,Efftronics,2.0,3.9,False
+2021-22,QSpiders,QSpiders,11.0,3.5,False
+2021-22,Societe Generale Global Solution Center (SC GSC) India,Societe Generale Global Solution Center (SC GSC) India,1.0,6.2,False
+2021-22,Harman Connected Services,Harman Connected Services,4.0,5.5,False
+2021-22,PacketPrep,PacketPrep,1.0,3.0,False
+2021-22,Netcracker,Net Cracker,11.0,8.0,False
+2021-22,Funnel (MovingDneedle),FUNNL,21.0,1.2,False
+2021-22,Infor,Infor,5.0,6.5,False
+2021-22,Tech Mahindra,Tech Mahindra,2.0,3.0,False
+2021-22,JSW (Jindal Steels),JSW (Jindal Steels),10.0,5.5,False
+2021-22,Sonata Software,Sonata Software,5.0,3.5,False
+2021-22,Deccan Fine Chemicals,Deccan Fine Chemicals,3.0,3.4,False
+2021-22,NJ India,NJ India,3.0,3.66,False
+2021-22,Bajaj Fin,Bajaj Finance,2.0,2.6,False
+2021-22,CapGemini,Capgemini,11.0,4.0,False
+2021-22,Hexagon,Hexagon,1.0,5.5,False
+2021-22,Ethnus,ETHNUS,6.0,2.7,False
+2021-22,D E Shaw Group,D E Shaw Group,1.0,50.5,False
+2021-22,B N Y Mellon Technology,B N Y Mellon Technology,1.0,17.34,False
+2021-22,SYNTAGS,SYNTAGS,1.0,3.75,False
+2021-22,Pentagon Space,Pentagon Space,2.0,3.0,False
+2021-22,ZenQ,ZenQ,1.0,2.4,False
+2021-22,Amadeus,Amadeus,1.0,11.77,False
+2021-22,Mahindra & Mahindra,Mahindra & Mahindra,11.0,4.5,False
+2021-22,Tiger Analytics,Tiger Analytics,1.0,6.2,False
+2021-22,VAP,VAP,3.0,1.8,False
+2021-22,Texmo Industries,Texmo Industries,4.0,2.1,False
+2021-22,Divis Labs,Divis Labs,20.0,1.92,False
+2021-22,eLitmus,eLitmus,1.0,8.0,False
+2021-22,Mind Tree,Mind Tree,1.0,4.0,False
+2021-22,ANA,ANA,2.0,3.6,False
+2021-22,Alines,Alines,1.0,5.6,False
+2021-22,Apollo,Apollo,1.0,1.8,False
+2021-22,Finoit Technologies,Finoit Technologies,1.0,4.2,False
+2021-22,ITS Engineering,ITS Engineering,1.0,1.8,False
+2021-22,Medha Sevo Drives,Medha Sevo Drives,1.0,4.48,False
+2021-22,INSEMI TECHNOLOGY SERVICES Pvt Ltd,INSEMI TECHNOLOGY SERVICES Pvt Ltd,1.0,5.25,False
+2021-22,Hetero Drugs,Hetero Drugs,14.0,1.96,False
+2021-22,PRAVAIG,PRAVAIG,1.0,4.2,False
+2021-22,Amazon,Amazon,3.0,44.15,False
+2021-22,Amazon,Amazon,1.0,28.0,False
+2021-22,Technologics Global Pvt. Ltd,Technologics Global,2.0,3.0,False
+2022-23,"Tata Consultancy Services, Hyd.",Tata Consultancy Services,174.0,3.36,False
+2022-23,"Tata Consultancy Services, Hyd.",Tata Consultancy Services,6.0,3.5,False
+2022-23,"Tata Consultancy Services, Hyd.",Tata Consultancy Services,49.0,7.0,False
+2022-23,"Cognizant Technology Solutions, Hyd.",Cognizant,109.0,4.0,False
+2022-23,"Cognizant Technology Solutions, Hyd.",Cognizant,44.0,4.25,False
+2022-23,"Cognizant Technology Solutions, Hyd.",Cognizant,14.0,5.4,False
+2022-23,"Cognizant Technology Solutions, Hyd.",Cognizant,2.0,6.75,False
+2022-23,"BIGWORKS Technologies, Hyd.",BIGWORKS Technologies,5.0,4.0,False
+2022-23,"EPAM, Hyd.",EPAM,14.0,12.0,False
+2022-23,Amazon,Amazon,10.0,30.3,False
+2022-23,Amazon,Amazon,1.0,29.48,False
+2022-23,"HCL, Chennai",HCL,17.0,6.0,False
+2022-23,"HCL, Chennai",HCL,89.0,4.25,False
+2022-23,"Torry Harris Integration Solutions, Bangalore",Torry Harris Integration Solutions,27.0,4.5,False
+2022-23,Veda IIT,Veda IIT,7.0,3.0,False
+2022-23,"Accenture, Hyd.",Accenture,137.0,4.5,False
+2022-23,"Accenture, Hyd.",Accenture,6.0,6.65,False
+2022-23,"Hexagon, Hyd.",Hexagon,5.0,5.5,False
+2022-23,"Brillio, Bangalore.",Brillio,12.0,6.0,False
+2022-23,"DeltaX, Bangalore.",DeltaX,3.0,7.0,False
+2022-23,"Hexaware, Chennai",Hexaware,76.0,4.0,False
+2022-23,"Quinbay, Bangalore",Quinbay,17.0,9.0,True
+2022-23,UnSchool,UnSchool,2.0,3.45,False
+2022-23,"KEKA, Hyderabad",Keka,8.0,8.0,False
+2022-23,"Virtusa, Chennai",Virtusa,1.0,6.5,False
+2022-23,"Virtusa, Chennai",Virtusa,1.0,5.0,False
+2022-23,"Efftronics, Guntur",Efftronics,1.0,6.8,False
+2022-23,"Efftronics, Guntur",Efftronics,10.0,5.3,False
+2022-23,"Efftronics, Guntur",Efftronics,1.0,3.9,False
+2022-23,"Delta Technology, Hyderabad",Delta Technology,10.0,5.0,False
+2022-23,"TechMahindra, Htyderabad",Tech Mahindra,1.0,5.5,False
+2022-23,"TechMahindra, Htyderabad",Tech Mahindra,27.0,3.25,False
+2022-23,"TECHOUTS, Hyderabad",Techouts,3.0,4.5,False
+2022-23,"Deccan Chemicals, Hyderabad",Deccan Chemicals,3.0,4.0,False
+2022-23,"Innova Solutions, Hyderabad",Innova Solutions,6.0,6.0,False
+2022-23,"Hetero Drugs, Hyderabad",Hetero Drugs,32.0,3.12,False
+2022-23,Qspiders,QSpiders,19.0,3.0,False
+2022-23,"PinClick, Bangalore",PinClick,24.0,4.8,False
+2022-23,"Acmegrade, Bangalore",Acmegrade,21.0,4.0,False
+2022-23,"VAP, Guntur",VAP,14.0,1.8,False
+2022-23,"Nobroker, Bangalore",Nobroker,2.0,4.8,False
+2022-23,EXCELR,ExcelR,10.0,3.0,False
+2022-23,Surya Tech Solutions,Surya Tech Solutions,12.0,3.0,False
+2022-23,"Aaditri, Hyderabad",Aaditri,6.0,,False
+2022-23,"PeopleHum Technologies, Bangalore",PeopleHum Technologies,7.0,8.0,True
+2022-23,"Rinex, Bangalore",Rinex,9.0,3.0,False
+2022-23,State Street HCL ServicesVijayawda,State Street HCL ServicesVijayawda,8.0,2.4,False
+2022-23,JSW,JSW,2.0,6.5,False
+2022-23,Kent Ro,Kent Ro,2.0,3.6,False
+2022-23,"Technologics Global, Bnaglore",Technologics Global,5.0,3.0,False
+2022-23,"NS Instruments, Tada",N S Instruments,5.0,2.68,False
+2022-23,"MosChip Technologies, Hydyderabad",MosChip Technologies,1.0,3.24,False
+2022-23,Think Wright,Think Wright,1.0,4.5,False
+2022-23,Think Wright,Think Wright,1.0,3.91,False
+2022-23,"Design Tribe, Hyderabad",Design Tribe,5.0,3.24,False
+2022-23,StockHolding,StockHolding,1.0,3.0,False
+2022-23,ESAF Small Finance Bank,ESAF Small Finance Bank,4.0,3.0,False
+2022-23,"NCL Industries, Hyderabad",NCL Industries,3.0,2.4,False
+2022-23,"SightPlan, Hyd.,",SightPlan,1.0,2.5,False
+2022-23,SkillBuz,SkillBuz,3.0,3.0,False
+2022-23,"OSi Digital,Hyd.",OSi Digital,1.0,6.0,False
+2022-23,"NJ India, Vijayawada",NJ India,2.0,5.5,False
+2022-23,EdYoda,EdYoda,5.0,5.48,False
+2022-23,CoMakeIT,CoMakeIT,2.0,5.0,False
+2022-23,"FlipKart, Hyderabad",FlipKart,4.0,3.6,False
+2022-23,FACE,FACE,7.0,5.0,False
+2022-23,Consero Global,Consero Global,1.0,2.16,False
+2022-23,Genpact,Genpact,1.0,2.8,False
+2022-23,"Mitsogo Techgnologies, Kochi",Mitsogo Techgnologies,1.0,4.0,False
+2022-23,Sonota,Sonota,5.0,3.5,False
+2022-23,Byjus,BYJU's,17.0,7.0,False
+2022-23,Funnl,FUNNL,11.0,1.8,False
+2022-23,SIKOF,SIKOF,1.0,1.8,False
+2022-23,SPERA,SPERA,2.0,2.16,False
+2022-23,Vintrus,Vintrus,50.0,3.0,False
+2022-23,Deloitte,Deloitte,1.0,4.5,False
+2022-23,MyHome Constructions,My Home Constructions,5.0,2.16,False
+2022-23,MIVIDA,MIVIDA,1.0,5.5,False
+2022-23,Everest Labs,Everest Labs,2.0,3.6,False
+2022-23,TeamLease,Team Lease,2.0,2.75,False
+2023-24,"Darwinbox, Hyderabad",Darwinbox,1.0,16.3,False
+2023-24,Chegg India,Chegg India,7.0,,False
+2023-24,Pinnacle,Pinnacle,2.0,6.0,False
+2023-24,Accenture,Accenture,66.0,6.5,True
+2023-24,Deccan Chemicals,Deccan Chemicals,5.0,4.0,True
+2023-24,Home First Finance Company,Home First Finance Company,6.0,5.25,False
+2023-24,Conquerors,Conquerors,1.0,3.0,False
+2023-24,Team Lease,Team Lease,1.0,2.64,False
+2023-24,Mohan Spintex India Limited,Mohan Spintex India Limited,1.0,3.59,False
+2023-24,UnSchool,UnSchool,1.0,3.3,False
+2023-24,MosChip,MosChip,4.0,5.5,True
+2023-24,ExcelR,ExcelR,31.0,,False
+2023-24,"Matrix Sky Line Infra, Hyd.,",Matrix Sky Line Infra,4.0,4.0,False
+2023-24,"People Hum Technology, Bang.,",People Hum Technology,3.0,8.0,True
+2023-24,Engati,Engati,4.0,8.0,True
+2023-24,Tezo,Tezo,11.0,5.5,True
+2023-24,Synnat Pharma,Synnat Pharma,3.0,3.0,False
+2023-24,Aaditri Housing,Aaditri Housing,5.0,1.8,False
+2023-24,MSN Labs,MSN Labs,25.0,3.0,False
+2023-24,Bajaj Finance,Bajaj Finance,4.0,5.68,True
+2023-24,Acmegrade,Acmegrade,20.0,4.0,True
+2023-24,Dokimi Geo Engineering Services,Dokimi Geo Engineering Services,6.0,1.44,False
+2023-24,Hexaware,Hexaware,13.0,6.0,False
+2023-24,Muthoot Housing Finance,Muthoot Housing Finance,15.0,,False
+2023-24,"Srijay Engineering and Constructions,",Srijay Engineering and Constructions,10.0,1.8,False
+2023-24,Sarvani Industries,Sarvani Industries,5.0,2.4,False
+2023-24,ESAF,ESAF Small Finance Bank,3.0,4.25,False
+2023-24,Laurus Labs,Laurus Labs,7.0,3.0,False
+2023-24,VAP,VAP,7.0,2.4,False
+2023-24,Styrax Pharma,Styrax Pharma,4.0,3.0,False
+2023-24,Riktam Technlology,Riktam Technlology,1.0,5.5,False
+2023-24,Keka,Keka,1.0,8.0,False
+2023-24,URBANRISE,URBANRISE,3.0,4.6,False
+2023-24,Ramco Cements,Ramco Cements,1.0,3.5,False
+2023-24,TCS,Tata Consultancy Services,211.0,9.0,True
+2023-24,Efftronics,Efftronics,6.0,5.3,False
+2023-24,Standard Group,Standard Group,3.0,1.8,False
+2023-24,Rinex Technology,Rinex Technology,28.0,5.2,False
+2023-24,NJ India,NJ India,1.0,5.78,False
+2023-24,Agratas Academy Pvt Ltd,Agratas Academy Pvt Ltd,12.0,2.4,False
+2023-24,Miracle Software Systems,Miracle Software Systems,11.0,4.0,True
+2023-24,Data Economy,Data Economy,1.0,6.0,False
+2023-24,FUNNL,FUNNL,15.0,,False
+2023-24,QSpiders,QSpiders,45.0,,False
+2023-24,Soctronics(Veda IIT),Soctronics(Veda IIT),2.0,3.0,False
+2023-24,Avani Engineering,Avani Engineering,5.0,,False
+2023-24,Vasuda Pharma Chem Lt,Vasuda Pharma Chem Lt,1.0,2.74,False
+2023-24,Hyundai Motor India Engineering,Hyundai Motor India Engineering,2.0,5.0,False
+2023-24,L-CUBE INNOVATIVE SOLUTION PVT LTD,L-CUBE INNOVATIVE SOLUTION PVT LTD,2.0,3.0,False
+2023-24,AVYAIT,AVYAIT,2.0,2.4,False
+2023-24,ENGLISH GURUKUL,English Gurukul,9.0,2.4,False
+2023-24,WAYFAIR,WAYFAIR,1.0,25.0,False
+2023-24,TechMahindra,Tech Mahindra,38.0,3.5,False
+2023-24,Snovasys,Snovasys,2.0,5.5,True
+2023-24,Viruj Pharmaceuticals,Viruj Pharmaceuticals,2.0,1.8,False
+2023-24,Compalin,Compalin,4.0,1.5,False
+2023-24,Srichakra Polyplast,Srichakra Polyplast,6.0,2.75,False
+2023-24,Sri Infra Consulting Engineers PVT LTD,Sri Infra Consulting Engineers PVT LTD,1.0,2.28,False
+2023-24,Intrainz Innovation,Intrainz Innovation,16.0,3.5,True
+2023-24,Swathi Build- Tech Pvt Ltd,Swathi Build- Tech Pvt Ltd,2.0,2.5,False
+2023-24,KOBELCO,KOBELCO,7.0,4.2,False
+2023-24,CTS,Cognizant,14.0,4.0,False
+2023-24,Skillhacc,Skillhacc,13.0,4.0,False
+2023-24,Aviotron Aerospace,Aviotron Aerospace,3.0,3.6,False
+2023-24,Flipkart,FlipKart,1.0,8.21,False
+2023-24,Infosys,Infosys,1.0,9.5,False
+2023-24,Capgemini,Capgemini,1.0,4.0,False
+2023-24,LAKSH Semi conductors,LAKSH Semi conductors,1.0,3.0,False
+2023-24,Blaize,Blaize,1.0,10.0,False
+2023-24,Divis Labs,Divis Labs,2.0,2.4,False
+2024-25,Tejas Networks,Tejas Networks,1.0,10.04,False
+2024-25,Quinbay,Quinbay,2.0,7.5,True
+2024-25,PalTech,PalTech,17.0,6.0,False
+2024-25,Acmegrade,Acmegrade,24.0,6.0,False
+2024-25,Surya Tech Solutions,Surya Tech Solutions,38.0,2.94,False
+2024-25,Efftronics,Efftronics,6.0,5.3,False
+2024-25,Srijay,Srijay,9.0,1.8,False
+2024-25,QuantumEye,QuantumEye,12.0,3.0,False
+2024-25,Veda IIT,Veda IIT,1.0,3.0,False
+2024-25,ANVI Technical Advisors India,ANVI Technical Advisors India,5.0,2.4,False
+2024-25,TCS,Tata Consultancy Services,326.0,9.0,True
+2024-25,CTS,Cognizant,52.0,6.75,True
+2024-25,Alekas,Alekas,5.0,3.0,False
+2024-25,Aaditri,Aaditri,5.0,2.16,False
+2024-25,Sai Life Sciences Limited,Sai Life Sciences Limited,10.0,3.0,False
+2024-25,Deloitte,Deloitte,3.0,4.0,False
+2024-25,Jesvid Cryo Technologies,Jesvid Cryo Technologies,2.0,2.4,False
+2024-25,English Gurukul,English Gurukul,1.0,2.4,False
+2024-25,Technologics,Technologics,8.0,4.0,False
+2024-25,Clair,Clair,2.0,3.2,False
+2024-25,Sri Sai Power & Equipment,Sri Sai Power & Equipment,9.0,2.4,False
+2024-25,Qspiders,QSpiders,54.0,3.0,False
+2024-25,EduTantra,EduTantra,42.0,6.0,False
+2024-25,Rinex Technologies,Rinex Technologies,23.0,4.0,False
+2024-25,HSBC,HSBC,12.0,9.0,False
+2024-25,Analog Port,Analog Port,3.0,4.0,False
+2024-25,Infosys,Infosys,36.0,3.6,True
+2024-25,USAI FORGE,USAI FORGE,21.0,2.4,False
+2024-25,JSW,JSW,6.0,6.5,False
+2024-25,NuconAerospace,NUCON Aero Space,1.0,2.4,False
+2024-25,Roks Civil Technocrats,Roks Civil Technocrats,3.0,2.16,False
+2024-25,Compile IT,Compile IT,49.0,4.0,False
+2024-25,Medho Servo Drives,Medha Servo Drives,2.0,5.16,False
+2024-25,GGS Engineering Services India Pvt.Ltd,GGS Engineering Services India Pvt.Ltd,1.0,3.57,False
+2024-25,Engati,Engati,1.0,10.0,False
+2024-25,Techouts,Techouts,1.0,3.0,False
+2024-25,GlowLogics Solutions Pvt Ltd,GlowLogics Solutions Pvt Ltd,1.0,5.2,False
+2024-25,ESAF SFB,ESAF Small Finance Bank,8.0,4.25,False
+2024-25,Vupadhi Techno Services,Vupadhi Techno Services,2.0,2.52,False
+2024-25,Sunglare Technologies,Sunglare Technologies,5.0,3.0,False
+2024-25,Plasmid,Plasmid,6.0,4.0,False
+2024-25,KEELINE,KEELINE,1.0,4.0,False
+2024-25,Policybazaar,Policybazaar,11.0,5.5,False
+2024-25,FACE,FACE,7.0,5.0,False
+2024-25,Home First Finance,Home First Finance Company,1.0,4.5,False
+2024-25,Data Economy,Data Economy,1.0,5.0,False
+2024-25,Ontario Networks,Ontario Networks,1.0,6.8,False
+2024-25,Better Castings,Better Castings,2.0,3.6,False
+2024-25,Granules India,Granules India,13.0,2.8,False
+2024-25,N S Instruments,N S Instruments,1.0,2.6,False
+2024-25,Divis Labs,Divis Labs,9.0,2.4,False
+2024-25,ExcelR,ExcelR,9.0,3.5,False
+2024-25,Everest Labs,Everest Labs,2.0,3.6,False
+2024-25,VRIDDHI Infratech pvt,VRIDDHI Infratech pvt,7.0,3.0,False
+2024-25,ML Agros,ML Agros,1.0,3.0,False
+2024-25,Paytm Services,Paytm Services,1.0,3.96,False
+2024-25,HCL Tech,HCL,14.0,3.25,False
+2024-25,People Hum,People Hum,4.0,6.5,False
+2024-25,Konecranes,Konecranes,1.0,4.0,False
+2024-25,NCL Industrials,NCL Industrials,2.0,2.4,False
+2024-25,Amazon,Amazon,1.0,46.38,False
+2024-25,JUSPAY,JUSPAY,1.0,21.0,False
+2024-25,VISTEX,VISTEX,1.0,4.5,False
+2024-25,KOBELCO,KOBELCO,5.0,4.2,False
+2024-25,WIPRO,Wipro,32.0,3.5,False
+2024-25,Imaginnovate,Imaginnovate,1.0,3.6,False
+2024-25,Azugu Technologies,Azugu Technologies,1.0,4.5,False
+2024-25,EPAM,EPAM,1.0,8.0,False
+2024-25,MEESHO,MEESHO,1.0,29.5,False
+2024-25,Prolifics,Prolifics,1.0,3.5,False
+2024-25,EXIMiETAS,EXIMiETAS,1.0,5.5,False
+2024-25,Praval,Praval,1.0,4.5,False
+2025-26,Cognizant Technology Solutions (CTS),Cognizant,92.0,6.75,True
+2025-26,DeltaX,DeltaX,2.0,7.0,False
+2025-26,EPAM,EPAM,8.0,8.5,False
+2025-26,Moschip,MosChip,2.0,4.0,False
+2025-26,Medha Servo Drives,Medha Servo Drives,2.0,5.16,False
+2025-26,Compile IT,Compile IT,14.0,6.0,False
+2025-26,Sai Power & Equipments,Sai Power & Equipments,13.0,2.4,False
+2025-26,JSW,JSW,4.0,5.5,False
+2025-26,PalTech,PalTech,9.0,6.0,False
+2025-26,EduTantra,EduTantra,113.0,8.0,False
+2025-26,Surya Tech,Surya Tech,22.0,2.44,True
+2025-26,Acmegrade,Acmegrade,77.0,8.0,False
+2025-26,Delphi-TVS,Delphi-TVS,114.0,2.2,False
+2025-26,Efftronics,Efftronics,4.0,5.3,False
+2025-26,Infosys,Infosys,41.0,10.0,True
+2025-26,GeoNixa,GeoNixa,13.0,5.0,False
+2025-26,SL Lumax,SL Lumax,90.0,2.2,False
+2025-26,Deccan Chemicals,Deccan Chemicals,4.0,4.75,True
+2025-26,Techouts,Techouts,1.0,4.0,False
+2025-26,Qspiders,QSpiders,31.0,,False
+2025-26,TVS Sundram fasteners,TVS Sundram fasteners,15.0,,False
+2025-26,ExcelR,ExcelR,16.0,2.8,True
+2025-26,FACE,FACE,10.0,3.0,False
+2025-26,Sai Life Sciences,Sai Life Sciences Limited,2.0,3.0,False
+2025-26,NStarX,NStarX,2.0,3.5,False
+2025-26,TDS Capital,TDS Capital,8.0,5.6,False
+2025-26,TCS,Tata Consultancy Services,293.0,9.0,True
+2025-26,Top Grade Innovations,Top Grade Innovations,6.0,,False
+2025-26,Unify Apps,Unify Apps,11.0,6.0,False
+2025-26,MEIL,MEIL,15.0,3.0,False
+2025-26,UWorld,UWorld,7.0,5.5,False
+2025-26,Shahgaron,Shahgaron,1.0,3.6,False
+2025-26,Interarch Building Solutions Ltd.,Interarch Building Solutions Ltd.,1.0,2.4,False
+2025-26,Bajaj Auto Credit,Bajaj Auto Credit,1.0,3.75,False
+2025-26,Arishith Fresh,Arishith Fresh,5.0,6.0,False
+2025-26,MathWorks,MathWorks,1.0,20.78,False
+2025-26,AT & T Communication Services,AT & T Communication Services,1.0,19.0,False
+2025-26,Worksbot,Worksbot,4.0,3.0,False
+2025-26,SOBHA Limited,SOBHA Limited,2.0,4.15,True
+2025-26,USAI FORGE,USAI FORGE,2.0,2.64,False
+2025-26,Accenture,Accenture,2.0,4.44,False
+2025-26,Rithwik Projects,Rithwik Projects,1.0,3.0,False
+2025-26,Andhra Sugars,Andhra Sugars,5.0,2.64,False
+2025-26,Lloyd Pharma Labs,Lloyd Pharma Labs,8.0,3.25,False
+2025-26,IncuxAI,IncuxAI,8.0,4.0,False
+2025-26,Miracle Software Systems,Miracle Software Systems,1.0,4.2,False
+2025-26,ACE Consulting Services,ACE Consulting Services,1.0,1.44,False
+2025-26,Divi's Laboratories,Divis Laboratories,16.0,2.4,False
+2025-26,Everest Labs,Everest Labs,1.0,3.6,False
+2025-26,Bheemaa Infra,Bheemaa Infra,15.0,2.76,True
+2025-26,SHREAS,SHREAS,1.0,2.8,False
+2025-26,Hetro Druges,Hetro Druges,4.0,2.56,False
+2025-26,Mana Pharma,Mana Pharma,1.0,2.4,False
+2025-26,NXP SemiConductors,NXP SemiConductors,1.0,24.58,False
+2025-26,Kobelco,KOBELCO,2.0,3.5,False
+2025-26,PraxsolEngineering Pvt,PraxsolEngineering Pvt,1.0,3.0,False
+2025-26,TEKFRIDAY,TEKFRIDAY,1.0,3.6,False
+2025-26,CYIENT,Cyient,1.0,4.2,False
+2025-26,Brenton IT Solutions LLC,Brenton IT Solutions LLC,1.0,5.56,False
+2025-26,Reliance Industrials Limited,Reliance Industrials Limited,1.0,7.5,False
+2025-26,MetLife,MetLife,1.0,8.8,False
