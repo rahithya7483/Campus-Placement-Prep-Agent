@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.git/
+.gitignore
+notebooks/.ipynb_checkpoints/
+company_merge_review_candidates.csv
