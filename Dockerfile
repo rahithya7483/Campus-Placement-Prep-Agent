@@ -1,12 +1,12 @@
-FROM python:3.11-slim
+FROM python:3.12-slim
 
 WORKDIR /app
 
-# build-essential is needed for some packages (e.g. chromadb's dependencies)
-# to compile correctly on a slim image
 RUN apt-get update && apt-get install -y --no-install-recommends \
     build-essential \
     && rm -rf /var/lib/apt/lists/*
+
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
 
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
@@ -14,7 +14,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 RUN chmod +x start.sh
 
-# Hugging Face Spaces (Docker SDK) expects the app on port 7860
 EXPOSE 7860
 
 CMD ["./start.sh"]
